@@ -1,5 +1,5 @@
 # About
-The script checks availability of delivery slots at https://www.kosik.cz/.
+The script checks availability of delivery slots at https://www.kosik.cz/ and sends an email when a free slot is present.
 
 # Installation
 The setup below is for Windows 10.
