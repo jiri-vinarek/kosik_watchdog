@@ -23,4 +23,4 @@ The setup below is for Windows 10.
 - Add chromedriver to run at startup. See https://www.howtogeek.com/228467/how-to-make-a-program-run-at-startup-on-any-computer/.
 - Setup windows Task scheduler to run `run_script.bat` periodically. See https://stackoverflow.com/a/4250516/11238203.
   - In _General_ set _Run whether user is logged on or not_
-  - _Triggers_ - _At system startup_, repeat every 15 minutes. Please, be reasonable with periodic execution and do not abuse the system.
+  - _Triggers_ - _At system startup_, repeat every 15 minutes. Please, be reasonable with the periodic execution and do not abuse the system.
